@@ -2,7 +2,7 @@
 
 # Hi there, I'm Rishikesh Shukla 👋
 
-![Profile Image](https://w0.peakpx.com/wallpaper/688/193/HD-wallpaper-ghibli-a%C2%B7-github-topics-a%C2%B7-github-cute-ghibli.jpg)
+![Profile Image](https://pikbest.com/backgrounds/qiantu-gif-creative-technology-earth-dynamic-geometric-dynamic-background_2757300.html)
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BrahamRishi)
 ![GitHub followers](https://img.shields.io/github/followers/BrahamRishi?label=Follow&style=social)
