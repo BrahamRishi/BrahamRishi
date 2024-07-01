@@ -1,11 +1,11 @@
 ![Profile Image](https://camo.githubusercontent.com/7b0b31a9d649352b6583905a0150c6ae4bc0c7b722e5cfbb6b28ca0ba01fb22c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Rishikesh Shukla 👋</h1>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=[your_username].[your_repo_name]" alt="visitor badge"/>
-  <img src="https://img.shields.io/github/followers/[your_username]?label=Follow&style=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/[your_username]?affiliations=OWNER&style=social" alt="GitHub stars"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BrahamRishi" alt="visitor badge"/>
+  <img src="https://img.shields.io/github/followers/BrahamRishi?label=Follow&style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/BrahamRishi?affiliations=OWNER&style=social" alt="GitHub stars"/>
 </p>
 ---
 
