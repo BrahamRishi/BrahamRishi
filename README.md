@@ -1,6 +1,6 @@
 # Hi there, I'm Rishikesh Shukla 👋
 
-![Profile Image](https://wpshopmart.com/wp-content/uploads/2016/10/Code-It-Logical-HD-Wallpaper-1.jpg)
+![Profile Image](https://w0.peakpx.com/wallpaper/688/193/HD-wallpaper-ghibli-a%C2%B7-github-topics-a%C2%B7-github-cute-ghibli.jpg)
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BrahamRishi)
 ![GitHub followers](https://img.shields.io/github/followers/BrahamRishi?label=Follow&style=social)
