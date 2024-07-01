@@ -1,3 +1,5 @@
+![Profile Image](https://camo.githubusercontent.com/7b0b31a9d649352b6583905a0150c6ae4bc0c7b722e5cfbb6b28ca0ba01fb22c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
+
 # Hi there, I'm Rishikesh Shukla 👋
 
 ![Profile Image](https://w0.peakpx.com/wallpaper/688/193/HD-wallpaper-ghibli-a%C2%B7-github-topics-a%C2%B7-github-cute-ghibli.jpg)
