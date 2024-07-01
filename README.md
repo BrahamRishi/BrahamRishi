@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/github/followers/BrahamRishi?label=Follow&style=social" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/BrahamRishi?affiliations=OWNER&style=social" alt="GitHub stars"/>
 </p>
----
 
 ## About Me
 
