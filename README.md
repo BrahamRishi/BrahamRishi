@@ -1,6 +1,6 @@
 # Hi there, I'm Rishikesh Shukla 👋
 
-![Profile Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwpshopmart.com%2Ftop-notch-programming-hd-desktop-wallpapers%2F&psig=AOvVaw21k1__o7IE-qjPdQbmwCUp&ust=1719933934448000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjG-quThocDFQAAAAAdAAAAABAE)
+![Profile Image](https://wpshopmart.com/wp-content/uploads/2016/10/Code-It-Logical-HD-Wallpaper-1.jpg)
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BrahamRishi)
 ![GitHub followers](https://img.shields.io/github/followers/BrahamRishi?label=Follow&style=social)
